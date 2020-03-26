@@ -2,14 +2,15 @@
 API for retrieving quotes from various philosophies
 
 ## API is available here
-https://philosophy-quotes-api.glitch.me/
+**_not deployed_** at the moment
+"philisophy-quotes-api.com" is a **placeholder**
 
 ### Endpoints
-https://philosophy-quotes-api.glitch.me/quotes   *retrieves all quotes*
+https://philisophy-quotes-api.com/quotes   *retrieves all quotes*
 
-https://philosophy-quotes-api.glitch.me/author/{name}   *retrieves quotes by named author*
+https://philisophy-quotes-api/author/{name}   *retrieves quotes by named author*
 
-https://philosophy-quotes-api.glitch.me/philosophy/{name}   *retrieves quotes from named philosophy*
+https://philisophy-quotes-api/philosophy/{name}   *retrieves quotes from named philosophy*
 
 #### Authors (endpoint names)
 - Marcus Aurelius
