@@ -2,17 +2,16 @@
 API for retrieving quotes from various philosophies
 
 ## API is available here
-**_not deployed_** at the moment
-"philisophy-quotes-api.com" is a **placeholder**
+https://philosophy-quotes-api.glitch.me
 
 ### Endpoints
-https://philisophy-quotes-api.com/quotes   *retrieves all quotes*
+https://philosophy-quotes-api.glitch.me/quotes   *retrieves all quotes*
 
-https://philisophy-quotes-api/author/{name}   *retrieves quotes by named author*
+https://philosophy-quotes-api.glitch.me/quotes/author/{parameter}   *retrieves quotes by author*
 
-https://philisophy-quotes-api/philosophy/{name}   *retrieves quotes from named philosophy*
+https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retrieves quotes by philosophy*
 
-#### Authors (endpoint names)
+#### Authors (endpoint parameters)
 - Marcus Aurelius
 - Seneca
 - Epictetus
@@ -23,7 +22,7 @@ https://philisophy-quotes-api/philosophy/{name}   *retrieves quotes from named p
 - Jean-Paul Sartre
 - Fyodor Dostoyevsky
 
-#### Philosophies (endpoint names)
+#### Philosophies (endpoint parameters)
 - Stoicism
 - Mysticism
 - Existentialism
