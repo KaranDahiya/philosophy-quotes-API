@@ -1,5 +1,13 @@
-# philosophy-quotes-API
+# Philosophy Quotes API
+**Description**
+
 API for retrieving quotes from various philosophies
+
+**Technologies**
+
+- Node.js
+- Express
+- MongoDB
 
 ## API is available here
 https://philosophy-quotes-api.glitch.me
