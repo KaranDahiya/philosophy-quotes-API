@@ -31,9 +31,13 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Fyodor Dostoyevsky
 - Plato
 - Aristotle
+- Henry David Thoreau
+- Ralph Waldo Emerson
+- Christopher McCandless
 
 #### Philosophies (endpoint parameters)
 - Stoicism
 - Mysticism
 - Existentialism
 - Classical Greek
+- Transcendentalism
