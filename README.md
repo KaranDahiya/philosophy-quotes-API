@@ -29,8 +29,11 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Friedrich Nietzsche
 - Jean-Paul Sartre
 - Fyodor Dostoyevsky
+- Plato
+- Aristotle
 
 #### Philosophies (endpoint parameters)
 - Stoicism
 - Mysticism
 - Existentialism
+- Classical Greek
