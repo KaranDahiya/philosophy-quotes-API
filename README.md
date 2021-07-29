@@ -36,6 +36,12 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Henry David Thoreau
 - Ralph Waldo Emerson
 - Christopher McCandless
+- René Descartes
+- Baruch Spinoz
+- Leibniz
+- John Locke
+- George Berkeley
+- David Hume
 
 #### Philosophies (endpoint parameters)
 - Stoicism
@@ -43,3 +49,5 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Existentialism
 - Classical Greek
 - Transcendentalism
+- Rationalism
+- Empiricism
