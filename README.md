@@ -51,3 +51,6 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Transcendentalism
 - Rationalism
 - Empiricism
+
+#### Screenshot
+<img width="1270" alt="Screen Shot 2021-07-30 at 11 09 13 AM" src="https://user-images.githubusercontent.com/41240707/127673659-6a7d5cde-a5e9-4676-aaa8-5cc2cea20ac0.png">
