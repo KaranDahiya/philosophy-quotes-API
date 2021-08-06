@@ -74,7 +74,8 @@ app.post('/quotes/submit/:passkey', async (request, response) => {
         });
     } else {
         response.json({
-            error: "authorization failed"
+            error: "authorization failed",
+            passkey: process.env.API_PASSKEY
         })
     }
 });
