@@ -1,11 +1,11 @@
 # Philosophy Quotes API
-**Description**
+## Description
 
 API for retrieving quotes from various philosophies
 
 100+ unique quotes available
 
-**Technologies**
+## Technologies
 
 - Node.js
 - Express
@@ -14,14 +14,14 @@ API for retrieving quotes from various philosophies
 ## API is available here
 https://philosophy-quotes-api.glitch.me
 
-### Endpoints
+## Endpoints
 https://philosophy-quotes-api.glitch.me/quotes   *retrieves all quotes*
 
 https://philosophy-quotes-api.glitch.me/quotes/author/{parameter}   *retrieves quotes by author*
 
 https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retrieves quotes by philosophy*
 
-#### Authors (endpoint parameters)
+## Authors (endpoint parameters)
 - Marcus Aurelius
 - Seneca
 - Epictetus
@@ -43,7 +43,7 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - George Berkeley
 - David Hume
 
-#### Philosophies (endpoint parameters)
+## Philosophies (endpoint parameters)
 - Stoicism
 - Mysticism
 - Existentialism
@@ -52,5 +52,5 @@ https://philosophy-quotes-api.glitch.me/quotes/philosophy/{parameter}   *retriev
 - Rationalism
 - Empiricism
 
-#### Screenshot
+## Screenshot
 <img width="1270" alt="Screen Shot 2021-07-30 at 11 09 13 AM" src="https://user-images.githubusercontent.com/41240707/127673659-6a7d5cde-a5e9-4676-aaa8-5cc2cea20ac0.png">
