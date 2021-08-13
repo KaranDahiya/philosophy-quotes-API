@@ -13,7 +13,7 @@ app.listen(port, () => {
 
 // DATABASE
 
-const database = new Datastore('database.db');
+const database = new Datastore('.data/database.db');
 database.loadDatabase();
 
 // EXTERNAL MIDDLEWARES
