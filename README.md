@@ -1,6 +1,6 @@
 # Philosophy Quotes API
-## Description
 
+## Description
 API for retrieving quotes from various philosophies
 
 100+ unique quotes available
