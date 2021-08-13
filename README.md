@@ -9,7 +9,7 @@ API for retrieving quotes from various philosophies
 
 - Node.js
 - Express
-- MongoDB
+- MongoDB (NeDB)
 
 ## API is available here
 https://philosophy-quotes-api.glitch.me
